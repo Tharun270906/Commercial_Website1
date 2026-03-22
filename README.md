@@ -190,7 +190,7 @@ body {
 
 
 ## OUTPUT
-<img width="1919" height="1142" alt="Screenshot 2026-03-22 203924" src="https://github.com/user-attachments/assets/4c6f54c9-7dc4-45bf-aba8-b02696b4aaa2" />
+![alt text](<Screenshot 2026-03-22 203924.png>)
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
